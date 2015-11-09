@@ -1,0 +1,17 @@
+1 language: cpp 
+2 script: g++ main.cpp 
+3 
+ 
+4 
+ 
+5 #Hello World is simple as there are no special specs for it to run,  
+6 #even the following could have been determined by default 
+7 #minimally, you only need line 1. 
+8 
+ 
+9 #install: make get-deps 
+10 
+ 
+11 #compiler: 
+12 #  - clang 
+13 #  - gcc 
